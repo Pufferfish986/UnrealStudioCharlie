@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.cdf68fc5-72af-4b4f-b7ab-77b16591cb9a",
+  "RepoID": "dv.repo.d28582dd-4e41-4fb0-b107-177298a27cb7",
+  "Path": "C:\\Users\\charl\\Desktop\\UnrealStudioCharlie",
+  "AccountID": "Google_101821758179993355877",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "Charlie_OctopusTag_Unreal26",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "UNKNOWN"
+}
